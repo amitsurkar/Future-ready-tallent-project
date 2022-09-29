@@ -2,7 +2,7 @@
  In this project I create a education related website for student We believe everyone has the capacity to be creative. Skill is a place where people develop their own potential.
 so this website helps student to boost their skills through education related courses.
 
-## My Wesbite link https://amiteducationweb.azurewebsites.net 
+## My Wesbite link https://amitweb.azurewebsites.net/ 
 
 # Homepage 
 ![Screenshot (281)](https://user-images.githubusercontent.com/72159431/183290392-359fca77-d56f-461a-9e76-37f509788974.png)
